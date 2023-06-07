@@ -4,6 +4,16 @@
     <string name="all_videos">All Videos</string>
     <string name="total_videos">Total videos</string>
     <string name="total_folders">Total folders</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="feedback">Feedback</string>
+    <string name="themes">Themes</string>
+    <string name="sort_order">Sort Order</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="videoname">Video Name</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="duration">00:00</string>
 
 
 </resources>

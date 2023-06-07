@@ -5,10 +5,13 @@
       <map>
         <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/drawable/all_folder.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/drawable/all_videos.xml" value="0.1" />
-        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/activity_main.xml" value="0.2341485507246377" />
+        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/fragment_folders.xml" value="0.22924901185770752" />
-        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/fragment_videos.xml" value="0.23229166666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/fragment_videos.xml" value="0.136" />
+        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/nav_header.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/layout/video_view.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/menu/bottom_nav.xml" value="0.24635416666666668" />
+        <entry key="..\:/AndroidStudioProjects/MyVideoApp/app/src/main/res/menu/nav_menu.xml" value="0.24635416666666668" />
       </map>
     </option>
   </component>
